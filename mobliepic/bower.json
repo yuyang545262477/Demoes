@@ -1,0 +1,13 @@
+{
+  "name": "two",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "zepto.js": "~1.1.6",
+    "animate.css": "~3.4.0"
+  },
+  "devDependencies": {
+    "chai": "~3.4.0",
+    "mocha": "~2.3.3"
+  }
+}
